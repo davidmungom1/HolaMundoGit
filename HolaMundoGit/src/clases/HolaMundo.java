@@ -6,6 +6,7 @@ public class HolaMundo {
 		// TODO Esbozo de método generado automáticamente
 		// Hola
 		// Comentario 2
+		// Comentario hecho desde Eclipse
 	}
 
 }
