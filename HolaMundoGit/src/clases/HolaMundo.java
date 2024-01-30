@@ -8,6 +8,8 @@ public class HolaMundo {
 		// Comentario 2
 		// Comentario hecho desde Eclipse
 		// Segundo cambio consola
+		// Segundo cambio hecho desde Eclipse
+
 	}
 
 }
